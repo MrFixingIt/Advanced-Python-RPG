@@ -217,3 +217,28 @@ def plan_itinerary():
         final_confirmation()
 
 plan_itinerary()
+
+# --------------------  -------------------- -------------------- --------------------
+
+
+best_football_team = input("Who is the best football team? ")
+
+valid_respons = False
+
+while valid_respons == False:
+
+    if best_football_team == "Bears":
+        print("Quarterback much?")
+        valid_respons = True
+    elif best_football_team == "Vikings":
+        print("Loud noises!")
+        valid_respons = True
+    elif best_football_team == "Lions":
+        print("They bad!")
+        valid_respons = True
+    elif best_football_team == "Packers":
+        print("Best team in the world! Actually, the universe!")
+        valid_respons = True
+    else:
+        print("They don't stand a chance!")
+        valid_respons = True

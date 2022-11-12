@@ -1,0 +1,9 @@
+"""
+random.choice
+def name
+
+
+
+
+
+"""

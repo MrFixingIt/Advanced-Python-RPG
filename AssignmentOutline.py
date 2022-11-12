@@ -5,14 +5,8 @@ Total Weighted Project Points: /30
  
 ---------- Main Stories ----------
 
-(2 of 6)    (5 points): As a data analyst, I want to make at least five commits on GitHub with descriptive messages.  
-        (2.5 points): As a user, I want an engaging story to be told using print() statements.  
-DONE    (2.5 points): As a data analyst, I want to create a hero variable and set it equal to a Dictionary with the following 
-            keys and values. NOTE: The structure below indicates the name of the key on the left side of the colon and the 
-            value on the right side of the colon. 
+(3 of 6)    (5 points): As a data analyst, I want to make at least five commits on GitHub with descriptive messages.  
 
-(5 points): As a user, I want my Hero and Enemy's attack to be chosen at random. 
-(5 points): As a user, I want my Hero or Enemy's health to decrease based on the power of the successful attack. 
 (2.5 points): As a user, I want the results of each attack to be printed to the terminal.
 (5 points): As a user, I want the Hero and Enemy to continue attacking each other until one's health reaches zero.  
 (5 points): As a user, I want to be able to “loot” defeated enemies by adding the Enemy's equipment set to the Hero's 
