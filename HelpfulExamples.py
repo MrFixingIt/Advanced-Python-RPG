@@ -2,7 +2,7 @@
 ---------- Basic GIT Commands ----------
 -git clone => allows you to get a repo from the server and copy it to your device.
 -git status => allows you to see the current status of your project.
--git add => allows you to add new files to your tracker and stage them to be commited.
+-git add . => allows you to add new files to your tracker and stage them to be commited.
 -git commit -m "Descriptive Message" => 
     -Backup/Bookmark
     -Grouping of differences (diffs)

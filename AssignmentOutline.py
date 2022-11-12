@@ -5,7 +5,7 @@ Total Weighted Project Points: /30
  
 ---------- Main Stories ----------
 
-(3 of 6)    (5 points): As a data analyst, I want to make at least five commits on GitHub with descriptive messages.  
+(4 of 6)    (5 points): As a data analyst, I want to make at least five commits on GitHub with descriptive messages.  
 
 (2.5 points): As a user, I want the results of each attack to be printed to the terminal.
 (5 points): As a user, I want the Hero and Enemy to continue attacking each other until one's health reaches zero.  
