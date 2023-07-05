@@ -14,7 +14,7 @@ def slow_print(string_to_print):
 	for letter in string_to_print:
 		sys.stdout.write(letter)
 		sys.stdout.flush()
-		time.sleep(0.065)
+		time.sleep(0.075)
 	print("")
 
 narrator_dialog = "------------------------------ Narrator ------------------------------"
@@ -300,7 +300,7 @@ def garen_vs_cannon_minion():
 # Garen won. This is his ending.
 def garen_ending():
 
-    print("Our hero continues heading towards the enemy nexus as he passively heals to full heal along")
+    print("Our hero continues heading towards the enemy nexus as he passively heals to full health along")
     print("the way. He reaches the defenses and shruggs off their attacks as he reduces them to piles of")
     print("rubble one after another. With all of the equipment, abilities and levels he has gained from")
     print("his enemies, he knows that he is unstoppable. The enemy obviously never expected anyone to")
